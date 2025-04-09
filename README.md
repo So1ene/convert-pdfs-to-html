@@ -28,7 +28,7 @@ sudo apt install -y libfontconfig1 libcairo2 libjpeg-turbo8
 
 #### 3: Install pdf2htmlEX
 
-Download the latest .deb package of pdf2htmlEX from its [GitHub releases page](https://github.com/pdf2htmlEX/pdf2htmlEX/releases). Navigate inside the downloaded release and install it:
+Download the latest .deb package of pdf2htmlEX from its [GitHub releases page](https://github.com/pdf2htmlEX/pdf2htmlEX/releases). Navigate to the downloaded release and install it:
 
 ```
 sudo apt install ./pdf2htmlEX.deb
