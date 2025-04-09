@@ -69,6 +69,7 @@ sudo port install pdf2htmlex
 ```
 
 - Confirm that pdf2htmlEX is installed correctly using: `pdf2htmlEX -v`
+- If all else fails, run a linux box and follow the instructions above instead
 <br />
 <br />
 <br />
